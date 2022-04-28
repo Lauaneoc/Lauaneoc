@@ -1,4 +1,4 @@
-<h1>Hi!Weloome</h1>
+<h1>Hi!Welcome</h1>
 <div align="center">
   <a href="https://github.com/lauaneoc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauaneoc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
